@@ -1,0 +1,1 @@
+var tinakotoUser = new GlideRecord();
